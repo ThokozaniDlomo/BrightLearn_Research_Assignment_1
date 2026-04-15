@@ -8,7 +8,6 @@ This repository contains **Research Assignment 1** for the *Foundations of Data 
 
 ## Overview
 
-This assignment introduces the core concepts in:
 
 - Data Fundamentals  
 - Artificial Intelligence (AI) & Machine Learning (ML)  
@@ -20,8 +19,6 @@ This assignment introduces the core concepts in:
 
 
 ## Learning Objectives:
-
-By completing this assignment, you will:
 
 - Understand foundational data concepts  
 - Gain exposure to AI and ML principles  
