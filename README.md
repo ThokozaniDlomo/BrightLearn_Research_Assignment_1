@@ -1,7 +1,5 @@
 # BrightLearn_Research_Assignment_1
 
-## BrightLearn Data Analytics – Research Assignment 1
-
 This repository contains **Research Assignment 1** for the *Foundations of Data Analytics & Data Science*.
 
 ---
